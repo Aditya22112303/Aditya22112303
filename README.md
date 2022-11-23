@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 -I'm Aditya Pratap Singh
-
--🔭 I'm interested in Machine llearning ,Artificial Intelligence,Data Science..
-
+-🔭 I'm interested in Machine Learning ,Artificial Intelligence,Data Science..
 -🌱 I’m currently learning Economics and Analytics at Christ University
 
 <!--
